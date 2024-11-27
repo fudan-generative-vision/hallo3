@@ -1,0 +1,171 @@
+[
+    {
+        "template": "title",
+        "props": {
+            "title": "Hallo3",
+            "subtitle": "Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks",
+            "authors": [
+                [
+                    {
+                        "name": "Jiahao Cui",
+                        "homepage": "https://github.com/cuijh26",
+                        "suffix": "1*"
+                    },
+                    {
+                        "name": "Hui Li",
+                        "homepage": "https://github.com/crystallee-ai",
+                        "suffix": "1"
+                    },
+                    {
+                        "name": "Yun Zhan",
+                        "homepage": "https://github.com/subazinga",
+                        "suffix": "1"
+                    },
+                    {
+                        "name": "Hanlin Shang",
+                        "homepage": "https://github.com/NinoNeumann",
+                        "suffix": "1"
+                    },
+                    {
+                        "name": "Kaihui Cheng",
+                        "homepage": "https://github.com/Kaihui-Cheng",
+                        "suffix": "1"
+                    },
+                    {
+                        "name": "Yuqi Ma",
+                        "homepage": "https://github.com/mayuqi7777",
+                        "suffix": "1"
+                    },
+                    {
+                        "name": "Shan Mu",
+                        "homepage": "https://github.com/AricGamma",
+                        "suffix": "1"
+                    }
+                ],
+                [
+                    {
+                        "name": "Hang Zhou",
+                        "homepage": "https://hangz-nju-cuhk.github.io/",
+                        "suffix": "2"
+                    },
+                    {
+                        "name": "Jingdong Wang",
+                        "homepage": "https://jingdongwang2017.github.io/",
+                        "suffix": "2"
+                    },
+                    {
+                        "name": "Siyu Zhu",
+                        "homepage": "https://sites.google.com/site/zhusiyucs/home",
+                        "suffix": "1✉️"
+                    }
+                ],
+                [
+                    {
+                        "name": "Fudan University",
+                        "homepage": "",
+                        "prefix": "1"
+                    },
+                    {
+                        "name": "Baidu Inc.",
+                        "homepage": "",
+                        "prefix": "2"
+                    }
+                ]
+            ],
+            "resources": {
+                "pdf": "",
+                "arxiv": "",
+                "github": "https://github.com/fudan-generative-vision/hallo3",
+                "huggingface": "https://huggingface.co/fudan-generative-ai/hallo3"
+            },
+            "mainVideo": ""
+        }
+    },
+    {
+        "template": "video-carousel",
+        "props": {
+            "id": "foreground",
+            "title": "Dynamic Foreground",
+            "items": [
+                "https://cdn.aondata.work/hallo3/assets/forground/0001.mp4",
+                "https://cdn.aondata.work/hallo3/assets/forground/0_0001.mp4",
+                "https://cdn.aondata.work/hallo3/assets/forground/1_0001.mp4",
+                "https://cdn.aondata.work/hallo3/assets/forground/2_0001.mp4",
+                "https://cdn.aondata.work/hallo3/assets/forground/3_0001.mp4"
+            ],
+            "count": 3
+        }
+    },
+    {
+        "template": "video-carousel",
+        "props": {
+            "id": "background",
+            "title": "Dynamic Background",
+            "items": [
+                "https://cdn.aondata.work/hallo3/assets/background/6_audio_background.mp4",
+                "https://cdn.aondata.work/hallo3/assets/background/5_audio_background.mp4",
+                "https://cdn.aondata.work/hallo3/assets/background/1_audio_background.mp4",
+                "https://cdn.aondata.work/hallo3/assets/background/2_audio_background.mp4",
+                "https://cdn.aondata.work/hallo3/assets/background/0_audio_background.mp4",
+                "https://cdn.aondata.work/hallo3/assets/background/an%20old%20man%20is%20speaking%20in%20large%20snow.mp4"
+            ],
+            "count": 3
+        }
+    },
+    {
+        "template": "video-carousel",
+        "props": {
+            "id": "headpose",
+            "title": "Diverse Head Poses",
+            "items": [
+                "https://cdn.aondata.work/hallo3/assets/headpose/0007.mp4",
+                "https://cdn.aondata.work/hallo3/assets/headpose/11_0007.mp4",
+                "https://cdn.aondata.work/hallo3/assets/headpose/3_00072.mp4",
+                "https://cdn.aondata.work/hallo3/assets/headpose/7_0007.mp4",
+                "https://cdn.aondata.work/hallo3/assets/headpose/8_0007.mp4",
+                "https://cdn.aondata.work/hallo3/assets/headpose/8_00072.mp4"
+            ],
+            "count": 3
+        }
+    },
+    {
+        "template": "video-carousel",
+        "props": {
+            "id": "headwares",
+            "title": "Portrait with Headwares",
+            "items": [
+                "https://cdn.aondata.work/hallo3/assets/headwares/0011.mp4",
+                "https://cdn.aondata.work/hallo3/assets/headwares/1_0011.mp4",
+                "https://cdn.aondata.work/hallo3/assets/headwares/2_0011.mp4"
+            ],
+            "count": 3
+        }
+    },
+    {
+        "template": "video-carousel",
+        "props": {
+            "id": "interactive",
+            "title": "Portrait with Interactive Scenes",
+            "items": [
+                "https://cdn.aondata.work/hallo3/assets/interactive/1_00023.mp4",
+                "https://cdn.aondata.work/hallo3/assets/interactive/2_00023.mp4",
+                "https://cdn.aondata.work/hallo3/assets/interactive/3_00023.mp4",
+                "https://cdn.aondata.work/hallo3/assets/interactive/4_00023.mp4"
+            ],
+            "count": 2
+        }
+    },
+    {
+        "template": "abstract",
+        "props": {
+            "figure": "https://cdn.aondata.work/hallo3/assets/teaser.jpg",
+            "content": "Existing methodologies for animating portrait images face significant challenges, particularly in handling non-frontal perspectives, rendering dynamic objects around the portrait, and generating immersive, realistic backgrounds. In this paper, we introduce the first application of a pretrained transformer-based video generative model that demonstrates strong generalization capabilities and generates highly dynamic, realistic videos for portrait animation, effectively addressing these challenges. The adoption of a new video backbone model makes previous U-Net-based methods for identity maintenance, audio conditioning, and video extrapolation inapplicable. To address this limitation, we design an identity reference network consisting of a causal 3D VAE combined with a stacked series of transformer layers, ensuring consistent facial identity across video sequences. Additionally, we investigate various speech audio conditioning and motion frame mechanisms to enable the generation of continuous video driven by speech audio. Our method is validated through experiments on benchmark and newly proposed wild datasets, demonstrating substantial improvements over prior methods in generating realistic portraits characterized by diverse orientations within dynamic and immersive scenes."
+        }
+    },
+    {
+        "template": "bibtex",
+        "props": {
+            "bibTeX": "@misc{cui2024hallo3,\n\ttitle={Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks}, \n\tauthor={Jiahao Cui and Hui Li and Yun Zhang and Hanlin Shang and Kaihui Cheng and Yuqi Ma and Shan Mu and Hang Zhou and Jingdong Wang and Siyu Zhu},\n\tyear={2024},\n\teprint={2411.xxx},\n\tarchivePrefix={arXiv},\n\tprimaryClass={cs.CV}\n}"
+        }
+    }
+]
