@@ -1,6 +1,7 @@
 name: deploy pages
 
 on:
+  workflow_dispatch:
   push:
     branches: ['gh-pages-source']
   pull_request:
