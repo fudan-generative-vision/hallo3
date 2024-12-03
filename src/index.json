@@ -84,21 +84,6 @@
     {
         "template": "video-carousel",
         "props": {
-            "id": "foreground",
-            "title": "Dynamic Foreground",
-            "items": [
-                "https://cdn.aondata.work/hallo3/assets/forground/0001.mp4",
-                "https://cdn.aondata.work/hallo3/assets/forground/0_0001.mp4",
-                "https://cdn.aondata.work/hallo3/assets/forground/1_0001.mp4",
-                "https://cdn.aondata.work/hallo3/assets/forground/2_0001.mp4",
-                "https://cdn.aondata.work/hallo3/assets/forground/3_0001.mp4"
-            ],
-            "count": 3
-        }
-    },
-    {
-        "template": "video-carousel",
-        "props": {
             "id": "background",
             "title": "Dynamic Background",
             "items": [
@@ -108,6 +93,21 @@
                 "https://cdn.aondata.work/hallo3/assets/background/2_audio_background.mp4",
                 "https://cdn.aondata.work/hallo3/assets/background/0_audio_background.mp4",
                 "https://cdn.aondata.work/hallo3/assets/background/an%20old%20man%20is%20speaking%20in%20large%20snow.mp4"
+            ],
+            "count": 3
+        }
+    },
+    {
+        "template": "video-carousel",
+        "props": {
+            "id": "foreground",
+            "title": "Dynamic Foreground",
+            "items": [
+                "https://cdn.aondata.work/hallo3/assets/forground/0001.mp4",
+                "https://cdn.aondata.work/hallo3/assets/forground/0_0001.mp4",
+                "https://cdn.aondata.work/hallo3/assets/forground/1_0001.mp4",
+                "https://cdn.aondata.work/hallo3/assets/forground/2_0001.mp4",
+                "https://cdn.aondata.work/hallo3/assets/forground/3_0001.mp4"
             ],
             "count": 3
         }
