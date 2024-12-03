@@ -73,8 +73,8 @@
                 ]
             ],
             "resources": {
-                "pdf": "",
-                "arxiv": "",
+                "pdf": "https://arxiv.org/pdf/2412.00733",
+                "arxiv": "https://arxiv.org/abs/2412.00733",
                 "github": "https://github.com/fudan-generative-vision/hallo3",
                 "huggingface": "https://huggingface.co/fudan-generative-ai/hallo3"
             },
@@ -165,7 +165,7 @@
     {
         "template": "bibtex",
         "props": {
-            "bibTeX": "@misc{cui2024hallo3,\n\ttitle={Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks}, \n\tauthor={Jiahao Cui and Hui Li and Yun Zhang and Hanlin Shang and Kaihui Cheng and Yuqi Ma and Shan Mu and Hang Zhou and Jingdong Wang and Siyu Zhu},\n\tyear={2024},\n\teprint={2411.xxx},\n\tarchivePrefix={arXiv},\n\tprimaryClass={cs.CV}\n}"
+            "bibTeX": "@misc{cui2024hallo3,\n\ttitle={Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks}, \n\tauthor={Jiahao Cui and Hui Li and Yun Zhang and Hanlin Shang and Kaihui Cheng and Yuqi Ma and Shan Mu and Hang Zhou and Jingdong Wang and Siyu Zhu},\n\tyear={2024},\n\teprint={2412.00733},\n\tarchivePrefix={arXiv},\n\tprimaryClass={cs.CV}\n}"
         }
     }
 ]
