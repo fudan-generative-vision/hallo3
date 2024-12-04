@@ -9,7 +9,7 @@
                     {
                         "name": "Jiahao Cui",
                         "homepage": "https://github.com/cuijh26",
-                        "suffix": "1*"
+                        "suffix": "1"
                     },
                     {
                         "name": "Hui Li",
@@ -87,15 +87,21 @@
             "id": "background",
             "title": "Dynamic Sences",
             "items": [
-                "https://cdn.aondata.work/hallo3/assets/background/6_audio_background.mp4",
-                "https://cdn.aondata.work/hallo3/assets/background/1_audio_background.mp4",
-                "https://cdn.aondata.work/hallo3/assets/forground/1_0001.mp4",
-                "https://cdn.aondata.work/hallo3/assets/background/2_audio_background.mp4",
-                "https://cdn.aondata.work/hallo3/assets/forground/0_0001.mp4",
+                "https://cdn.aondata.work/hallo3/assets/forground/0001.mp4",
                 "https://cdn.aondata.work/hallo3/assets/background/5_audio_background.mp4",
+                "https://cdn.aondata.work/hallo3/assets/dynamic/171_audio5.mp4",
+                
+                "https://cdn.aondata.work/hallo3/assets/dynamic/52_audio2.mp4",
                 "https://cdn.aondata.work/hallo3/assets/forground/2_0001.mp4",
-                "https://cdn.aondata.work/hallo3/assets/forground/3_0001.mp4",
-                "https://cdn.aondata.work/hallo3/assets/forground/0001.mp4"
+                "https://cdn.aondata.work/hallo3/assets/background/2_audio_background.mp4",
+
+                "https://cdn.aondata.work/hallo3/assets/forground/1_0001.mp4",
+                "https://cdn.aondata.work/hallo3/assets/background/1_audio_background.mp4",
+                "https://cdn.aondata.work/hallo3/assets/dynamic/125_audio4.mp4",
+
+                "https://cdn.aondata.work/hallo3/assets/forground/0_0001.mp4",
+                "https://cdn.aondata.work/hallo3/assets/background/6_audio_background.mp4",
+                "https://cdn.aondata.work/hallo3/assets/forground/3_0001.mp4"   
             ],
             "count": 3
         }
@@ -106,12 +112,18 @@
             "id": "headpose",
             "title": "Diverse Head Poses",
             "items": [
-                "https://cdn.aondata.work/hallo3/assets/headpose/11_0007.mp4",
+                "https://cdn.aondata.work/hallo3/assets/headpose/179_audio5.mp4",
                 "https://cdn.aondata.work/hallo3/assets/headpose/3_00072.mp4",
                 "https://cdn.aondata.work/hallo3/assets/interactive/2_00023.mp4",
-                "https://cdn.aondata.work/hallo3/assets/headpose/0007.mp4",
+
                 "https://cdn.aondata.work/hallo3/assets/headpose/7_0007.mp4",
-                "https://cdn.aondata.work/hallo3/assets/headpose/8_0007.mp4"
+                "https://cdn.aondata.work/hallo3/assets/headpose/44_audio2.mp4",
+                "https://cdn.aondata.work/hallo3/assets/headpose/83_audio3.mp4",
+                
+                "https://cdn.aondata.work/hallo3/assets/headpose/8_0007.mp4",
+                "https://cdn.aondata.work/hallo3/assets/headpose/0007.mp4",
+                "https://cdn.aondata.work/hallo3/assets/headpose/11_0007.mp4"
+                
             ],
             "count": 3
         }
@@ -122,9 +134,13 @@
             "id": "headwares",
             "title": "Portrait with Headwares",
             "items": [
-                "https://cdn.aondata.work/hallo3/assets/headwares/0011.mp4",
+                "https://cdn.aondata.work/hallo3/assets/headwares/24_audio1.mp4",
                 "https://cdn.aondata.work/hallo3/assets/headwares/1_0011.mp4",
-                "https://cdn.aondata.work/hallo3/assets/headwares/2_0011.mp4"
+                "https://cdn.aondata.work/hallo3/assets/headwares/122_audio4.mp4",
+                
+                "https://cdn.aondata.work/hallo3/assets/headwares/2_0011.mp4",
+                "https://cdn.aondata.work/hallo3/assets/headwares/0011.mp4",
+                "https://cdn.aondata.work/hallo3/assets/headwares/240_audio7.mp4"
             ],
             "count": 3
         }
@@ -133,7 +149,7 @@
         "template": "video-carousel",
         "props": {
             "id": "interactive",
-            "title": "Portrait with Interactive Scenes",
+            "title": "Portrait with Interactive Objects",
             "items": [
                 "https://cdn.aondata.work/hallo3/assets/interactive/1_00023.mp4",
                 "https://cdn.aondata.work/hallo3/assets/interactive/3_00023.mp4",
