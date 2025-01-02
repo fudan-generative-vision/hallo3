@@ -1,0 +1,19 @@
+args:
+  image2video: True 
+  latent_channels: 16
+  mode: inference
+
+  load: ./pretrained_models/hallo3
+
+  batch_size: 1
+  input_type: txt
+  sampling_image_size: [480, 720]
+  sampling_num_frames: 13  
+  sampling_fps: 25
+  bf16: True 
+  force_inference: True
+  sample_rate: 16000
+  wav2vec_model_path: ./pretrained_models/wav2vec/wav2vec2-base-960h
+  wav2vec_features: all
+  audio_separator_model_path: ./pretrained_models/audio_separator/Kim_Vocal_2.onnx
+  face_analysis_model_path: ./pretrained_models/face_analysis
