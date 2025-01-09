@@ -178,6 +178,18 @@ Hallo3 has a few simple requirements for the input data of inference:
 
 ### 🎮 Run Inference
 
+#### Gradio UI 
+
+To run the Gradio UI simply run `scripts/app.py`:
+
+```bash
+python scripts/app.py
+```
+
+![Gradio Demo](assets/gradio.png)
+
+#### Batch
+
 Simply to run the `scripts/inference_long_batch.sh`:
 
 ```bash
