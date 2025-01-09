@@ -29,6 +29,18 @@
 </div>
 <br>
 
+
+<table align='center' style="width: 100%; text-align: center; margin-left: 100px;">
+  <tr>
+    <td>
+        <video align="center" src="https://github.com/user-attachments/assets/b0caa60a-c4db-43b8-8a6f-4ef5f86b65d1" width="100%" controls autoplay loop></video>
+    </td>
+  </tr>
+</table>
+
+
+
+
 ## 📸 Showcase
 
 <table border="0" style="width: 100%; text-align: left; margin-top: 20px;">
