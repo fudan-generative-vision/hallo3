@@ -3,7 +3,7 @@
 <div align='center'>
     <a href='https://github.com/cuijh26' target='_blank'>Jiahao Cui</a><sup>1</sup>&emsp;
     <a href='https://github.com/crystallee-ai' target='_blank'>Hui Li</a><sup>1</sup>&emsp;
-    <a href='https://github.com/subazinga' target='_blank'>Yun Zhan</a><sup>1</sup>&emsp;
+    <a href='https://github.com/subazinga' target='_blank'>Yun Zhang</a><sup>1</sup>&emsp;
     <a href='https://github.com/NinoNeumann' target='_blank'>Hanlin Shang</a><sup>1</sup>&emsp;
     <a href='https://github.com/Kaihui-Cheng' target='_blank'>Kaihui Cheng</a><sup>1</sup>&emsp;
     <a href='https://github.com/mayuqi7777' target='_blank'>Yuqi Ma</a><sup>1</sup>&emsp;
