@@ -223,7 +223,7 @@ class ImageProcessorForDataProcessing():
             blur_face_mask = blur_mask(face_mask, (64, 64), (51, 51))
             blur_lip_mask = blur_mask(lip_mask, (64, 64), (31, 31))
 
-            # 5 seperate mask
+            # 5 separate mask
             sep_face_mask = cv2.subtract(blur_face_mask, blur_lip_mask)
             sep_pose_mask = 255.0 - blur_face_mask
             sep_lip_mask = blur_lip_mask
