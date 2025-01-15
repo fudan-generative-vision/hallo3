@@ -3,7 +3,7 @@
 <div align='center'>
     <a href='https://github.com/cuijh26' target='_blank'>Jiahao Cui</a><sup>1</sup>&emsp;
     <a href='https://github.com/crystallee-ai' target='_blank'>Hui Li</a><sup>1</sup>&emsp;
-    <a href='https://github.com/subazinga' target='_blank'>Yun Zhan</a><sup>1</sup>&emsp;
+    <a href='https://github.com/subazinga' target='_blank'>Yun Zhang</a><sup>1</sup>&emsp;
     <a href='https://github.com/NinoNeumann' target='_blank'>Hanlin Shang</a><sup>1</sup>&emsp;
     <a href='https://github.com/Kaihui-Cheng' target='_blank'>Kaihui Cheng</a><sup>1</sup>&emsp;
     <a href='https://github.com/mayuqi7777' target='_blank'>Yuqi Ma</a><sup>1</sup>&emsp;
@@ -28,6 +28,14 @@
     <a href='assets/wechat.jpeg'><img src='https://badges.aleen42.com/src/wechat.svg'></a>
 </div>
 <br>
+
+<table align='center' border="0" style="width: 100%; text-align: center; margin-top: 80px;">
+  <tr>
+    <td>
+      <video align='center' src="https://github.com/user-attachments/assets/f8161b36-8338-488e-98b2-615e3cbe146e" muted autoplay loop></video>
+    </td>
+  </tr>
+</table>
 
 ## 📸 Showcase
 
@@ -169,6 +177,18 @@ Hallo3 has a few simple requirements for the input data of inference:
 4. Ensure the vocals of audio are clear; background music is acceptable.
 
 ### 🎮 Run Inference
+
+#### Gradio UI 
+
+To run the Gradio UI simply run `scripts/app.py`:
+
+```bash
+python scripts/app.py
+```
+
+![Gradio Demo](assets/gradio.png)
+
+#### Batch
 
 Simply to run the `scripts/inference_long_batch.sh`:
 
