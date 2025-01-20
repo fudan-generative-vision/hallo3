@@ -3,7 +3,7 @@
 <div align='center'>
     <a href='https://github.com/cuijh26' target='_blank'>Jiahao Cui</a><sup>1</sup>&emsp;
     <a href='https://github.com/crystallee-ai' target='_blank'>Hui Li</a><sup>1</sup>&emsp;
-    <a href='https://github.com/subazinga' target='_blank'>Yun Zhang</a><sup>1</sup>&emsp;
+    <a href='https://github.com/subazinga' target='_blank'>Yun Zhan</a><sup>1</sup>&emsp;
     <a href='https://github.com/NinoNeumann' target='_blank'>Hanlin Shang</a><sup>1</sup>&emsp;
     <a href='https://github.com/Kaihui-Cheng' target='_blank'>Kaihui Cheng</a><sup>1</sup>&emsp;
     <a href='https://github.com/mayuqi7777' target='_blank'>Yuqi Ma</a><sup>1</sup>&emsp;
@@ -253,7 +253,7 @@ If you find our work useful for your research, please consider citing the paper:
 ```
 @misc{cui2024hallo3,
 	title={Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks}, 
-	author={Jiahao Cui and Hui Li and Yun Zhang and Hanlin Shang and Kaihui Cheng and Yuqi Ma and Shan Mu and Hang Zhou and Jingdong Wang and Siyu Zhu},
+	author={Jiahao Cui and Hui Li and Yun Zhan and Hanlin Shang and Kaihui Cheng and Yuqi Ma and Shan Mu and Hang Zhou and Jingdong Wang and Siyu Zhu},
 	year={2024},
 	eprint={2412.00733},
 	archivePrefix={arXiv},
