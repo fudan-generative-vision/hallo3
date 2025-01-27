@@ -66,6 +66,10 @@
 
 Visit our [project page](https://fudan-generative-vision.github.io/hallo3/#/) to view more cases.
 
+## 📰 News
+
+- **`2025/01/27`**: 🎉🎉🎉 Release training data on [HuggingFace](https://huggingface.co/datasets/fudan-generative-ai/hallo3_training_data). It includes over 70 hours of pure talking-head videos and more than 50 wild-scene video clips.
+
 ## ⚙️ Installation
 
 - System requirement: Ubuntu 20.04/Ubuntu 22.04, Cuda 12.1
@@ -201,8 +205,10 @@ Animation results will be saved at `./output`. You can find more examples for in
 
 ## Training
 
-#### prepare data for training
-Organize your raw videos into the following directory structure:
+### Prepare data for training
+
+Begin your data-exploration by downloading the training dataset from [the HuggingFace Dataset Repo](https://huggingface.co/datasets/fudan-generative-ai/hallo3_training_data). This dataset contains over 70 hours of talking-head videos, focusing on the speaker's face and speech, and more than 50 wild-scene clips from various real-world settings.
+After downloading, simply unzip all the `.tgz` files to access the data and start your projects and organize them into the following directory structure:
 ```text
 dataset_name/
 |-- videos/
@@ -221,7 +227,7 @@ Next, process the videos with the following commands:
 bash scripts/data_preprocess.sh {dataset_name} {parallelism} {rank} {output_name}
 ```
 
-#### Training
+### Training
 
 Update the data meta path settings in the configuration YAML files, `configs/sft_s1.yaml` and `configs/sft_s2.yaml`:
 
