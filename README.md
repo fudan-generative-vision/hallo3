@@ -68,7 +68,7 @@ Visit our [project page](https://fudan-generative-vision.github.io/hallo3/#/) to
 
 ## 📰 News
 
-- **`2025/01/27`**: 🎉🎉🎉 Release training data on [HuggingFace](https://huggingface.co/datasets/fudan-generative-ai/hallo3_training_data). It includes over 70 hours of pure talking-head videos and more than 50 wild-scene video clips.
+- **`2025/01/27`**: 🎉🎉🎉 Release training data on [HuggingFace](https://huggingface.co/datasets/fudan-generative-ai/hallo3_training_data). The collection comprises over 70 hours of talking-head videos, complemented by an additional 50 hours of dynamic video clips featuring vibrant foregrounds and backgrounds.
 
 ## ⚙️ Installation
 
