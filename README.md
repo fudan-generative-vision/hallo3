@@ -109,7 +109,7 @@ Using `huggingface-cli` to download the models:
 
 ```shell
 cd $ProjectRootDir
-pip install huggingface-cli
+pip install huggingface-hub
 huggingface-cli download fudan-generative-ai/hallo3 --local-dir ./pretrained_models
 ```
 
