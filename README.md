@@ -71,7 +71,7 @@ Visit our [project page](https://fudan-generative-vision.github.io/hallo3/#/) to
 
 ## 📰 News
 
-- **`2025/02/27`**: 🎉🎉🎉 Our paper has been accepted to [CVPR 2025](https://iclr.cc/Conferences/2025).
+- **`2025/02/27`**: 🎉🎉🎉 Our paper has been accepted to [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025).
 - **`2025/01/27`**: 🎉🎉🎉 Release training data on [HuggingFace](https://huggingface.co/datasets/fudan-generative-ai/hallo3_training_data). The collection comprises over 70 hours of talking-head videos, complemented by an additional 50 hours of dynamic video clips featuring vibrant foregrounds and backgrounds.
 
 ## ⚙️ Installation
