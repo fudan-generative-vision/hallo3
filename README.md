@@ -27,6 +27,9 @@
     <a href='https://huggingface.co/fudan-generative-ai/hallo3'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow'></a>
     <a href='assets/wechat.jpeg'><img src='https://badges.aleen42.com/src/wechat.svg'></a>
 </div>
+<div align='Center'>
+    <i><strong><a href='https://cvpr.thecvf.com/Conferences/2025' target='_blank'>CVPR 2025</a></strong></i>
+</div>
 <br>
 
 <table align='center' border="0" style="width: 100%; text-align: center; margin-top: 80px;">
@@ -68,6 +71,7 @@ Visit our [project page](https://fudan-generative-vision.github.io/hallo3/#/) to
 
 ## 📰 News
 
+- **`2025/02/27`**: 🎉🎉🎉 Our paper has been accepted to [CVPR 2025](https://iclr.cc/Conferences/2025).
 - **`2025/01/27`**: 🎉🎉🎉 Release training data on [HuggingFace](https://huggingface.co/datasets/fudan-generative-ai/hallo3_training_data). The collection comprises over 70 hours of talking-head videos, complemented by an additional 50 hours of dynamic video clips featuring vibrant foregrounds and backgrounds.
 
 ## ⚙️ Installation
