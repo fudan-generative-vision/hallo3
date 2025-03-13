@@ -35,7 +35,7 @@
 <table align='center' border="0" style="width: 100%; text-align: center; margin-top: 80px;">
   <tr>
     <td>
-      <video align='center' src="https://github.com/user-attachments/assets/f8161b36-8338-488e-98b2-615e3cbe146e" muted autoplay loop></video>
+      <video align='center' src="https://github.com/user-attachments/assets/f14bf935-ceaa-4dae-98b9-d7e54633475d" muted autoplay loop></video>
     </td>
   </tr>
 </table>
