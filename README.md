@@ -1,4 +1,4 @@
-<h1 align='center'>Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks</h1>
+<h1 align='center'>Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Video Diffusion Transformer</h1>
 
 <div align='center'>
     <a href='https://github.com/cuijh26' target='_blank'>Jiahao Cui</a><sup>1</sup>&emsp;
@@ -262,7 +262,7 @@ If you find our work useful for your research, please consider citing the paper:
 
 ```
 @misc{cui2024hallo3,
-	title={Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks}, 
+	title={Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Video Diffusion Transformer}, 
 	author={Jiahao Cui and Hui Li and Yun Zhan and Hanlin Shang and Kaihui Cheng and Yuqi Ma and Shan Mu and Hang Zhou and Jingdong Wang and Siyu Zhu},
 	year={2024},
 	eprint={2412.00733},
