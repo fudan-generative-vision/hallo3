@@ -3,7 +3,7 @@
         "template": "title",
         "props": {
             "title": "Hallo3",
-            "subtitle": "Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks",
+            "subtitle": "Highly Dynamic and Realistic Portrait Image Animation with Video Diffusion Transformer",
             "authors": [
                 [
                     {
@@ -168,7 +168,7 @@
     {
         "template": "bibtex",
         "props": {
-            "bibTeX": "@misc{cui2024hallo3,\n\ttitle={Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks}, \n\tauthor={Jiahao Cui and Hui Li and Yun Zhang and Hanlin Shang and Kaihui Cheng and Yuqi Ma and Shan Mu and Hang Zhou and Jingdong Wang and Siyu Zhu},\n\tyear={2024},\n\teprint={2412.00733},\n\tarchivePrefix={arXiv},\n\tprimaryClass={cs.CV}\n}"
+            "bibTeX": "@misc{cui2024hallo3,\n\ttitle={Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Video Diffusion Transformer}, \n\tauthor={Jiahao Cui and Hui Li and Yun Zhang and Hanlin Shang and Kaihui Cheng and Yuqi Ma and Shan Mu and Hang Zhou and Jingdong Wang and Siyu Zhu},\n\tyear={2024},\n\teprint={2412.00733},\n\tarchivePrefix={arXiv},\n\tprimaryClass={cs.CV}\n}"
         }
     }
 ]
